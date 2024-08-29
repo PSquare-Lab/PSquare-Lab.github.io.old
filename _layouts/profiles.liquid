@@ -22,7 +22,7 @@ layout: page
           {% endif %}
         </div>
 
-        <div class="clearfix">
+        <div class="clearfix" style="color: #3498db; background-color: #f0f0f0;">
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
