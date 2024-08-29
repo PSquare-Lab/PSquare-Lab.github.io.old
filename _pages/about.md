@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Los Alamos National Laboratory, T-5 Division. Email: [pareek@lanl.gov]. "Empowering the future of energy systems through advanced algorithms and innovation."
+#subtitle: <a href='#'>Affiliations</a>. Los Alamos National Laboratory, T-5 Division. Email: [pareek@lanl.gov]. "Empowering the future of energy systems through advanced algorithms and innovation."
 
 
 profile:
@@ -10,15 +10,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Theoretical Division (T-5)</p>
+    <p>LANL, New Mexico, USA</p>
+    <p></p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
 
 I am an upcoming Assistant Professor at Department of Electrical Engineering at the Indian Institute of Technology Roorkee as an Assistant Professor.
 
