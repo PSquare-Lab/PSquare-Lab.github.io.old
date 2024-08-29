@@ -15,11 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-### Journal Papers
-{% bibliography --query @*[keywords=journal] %}
-
-### Conference Papers
-{% bibliography --query @*[keywords=conference] %}
-
+{% bibliography %}
 
 </div>
