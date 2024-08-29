@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Los Alamos National Laboratory, T-5 Division. Email: [pareek@lanl.gov]. "Empowering the future of energy systems through advanced algorithms and innovation."
+
 
 profile:
   align: right
