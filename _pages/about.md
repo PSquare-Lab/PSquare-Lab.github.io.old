@@ -26,4 +26,4 @@ Currently, I am a Postdoctoral Research Associate at Advanced Network Science In
 My research focuses on developing efficient algorithms to address challenges in power system operations under uncertainty. I specialize in applying Bayesian learning to power flow approximation, optimal power flow, and integrating empirical battery models into dispatch strategies. Notably, I introduced a novel kernel structure for learning large-scale network flows with minimal samples, enabling active and multi-task learning for managing N-1 contingencies. Currently, I am working towards establishing probabilistic guarantees for Bayesian tools and integrating prior power system knowledge into AI solutions. I'm also exploring GPU-accelerated machine learning for risk assessment in electrical markets and investigating quantum computing's potential for power system challenges.
 
 
-For more details, please see my [CV](assets/pdf/Parikshit_CV.pdf).
+For more details, please see my [CV](/assets/pdf/Parikshit_CV.pdf).
